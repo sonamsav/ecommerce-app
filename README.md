@@ -12,6 +12,10 @@ The state was managed using Redux.
 Authentication was implemented using Firebase, and payment was integrated with Stripe. Users need to authenticate with Firebase before making a payment.
 The products data were fetched from [Fake Store API](https://fakestoreapiserver.reactbd.com/products).
 
+
+warning :
+The UI is live, but you won’t be able to log in. To log in, clone the project and run it locally, and you will be able to log in successfully and even will be able to even do payment.
+
 ![preview](./.github/preview_cart.gif)
 
 ![preview](./.github/preview_payment.gif)
