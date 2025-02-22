@@ -31,7 +31,7 @@ The project's UI is available here: (https://67b9cb20e5cc5b9de5373e4d--strong-ot
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:vitorfnery/e-commerce-firebase.git`
+1. Clone the repository: `git clone https://github.com/sonamsav/ecommerce-app`
 2. Navigate to the project directory: `cd client`
 3. Install the dependencies: `npm install`
 
